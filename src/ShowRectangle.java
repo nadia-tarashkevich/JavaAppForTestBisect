@@ -13,7 +13,7 @@ public class ShowRectangle extends JFrame {
             @Override
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
-                g.setColor(Color.GREEN);
+                g.setColor(Color.RED);
                 g.fillRect(50, 50, 100, 100);
             }
         };
