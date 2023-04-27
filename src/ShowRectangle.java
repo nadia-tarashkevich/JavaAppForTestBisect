@@ -25,5 +25,6 @@ public class ShowRectangle extends JFrame {
     public static void main(String[] args) {
         new ShowRectangle();
         // still red
+        // red again
     }
 }
