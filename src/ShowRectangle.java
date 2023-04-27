@@ -26,5 +26,6 @@ public class ShowRectangle extends JFrame {
         new ShowRectangle();
         // this commit does nothing
         // this commit still does nothing
+        // this commit also does nothing
     }
 }
